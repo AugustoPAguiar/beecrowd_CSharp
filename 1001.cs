@@ -13,5 +13,4 @@ class URI {
         
         Console.WriteLine("X = "+X);
     }
-
 }
